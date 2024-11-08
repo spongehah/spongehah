@@ -1,4 +1,5 @@
-<div align="center">
+  <!--
+  <div align="center">
 
   # Hey, this is spongehah! 👋
   <i>A little brown bear who can write code.</i>
@@ -27,6 +28,7 @@
         </picture>
       </a>
       <br>
+      -->
   <!--
       <a href="https://github.com/spongehah" target="_blank">
         <picture>
